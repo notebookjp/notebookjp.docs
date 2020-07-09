@@ -1,0 +1,55 @@
+site_dir: '../notebookjp.github.io'
+
+# Project information
+site_name: ゲーム開発のためのノート PC 選び | notebookjp
+site_url: https://notebookjp.github.io/
+site_author: Ryo Suzuki
+site_description: ゲーム開発のためのノート PC
+
+# Repository
+repo_name: Reputeless/Laptops
+repo_url: https://github.com/Reputeless/Laptops
+edit_uri: ""
+
+# Theme
+theme:
+  name: material
+  language: ja
+  palette:
+    primary: teal
+    accent: teal
+  logo: assets/images/laptop-white-48dp.svg
+  favicon: assets/images/logo.png
+  features:
+    - instant
+    - tabs
+plugins:
+  - search:
+      lang:
+      - en
+      prebuild_index: true
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/Reputeless
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+extra_css:
+  - "https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css"
+  - notebookjp_styles.css
+
+# Page tree
+nav:
+  - 2020 年 7 月: index.md
+  - 過去のデータ:
+    - 2020 年 5 月: archive/2020-05-27.md
+    - 2020 年 4 月: archive/2020-04-26.md
+    - 2020 年 2 月: archive/2020-02-04.md
+    - 2019 年 12 月: archive/2019-12-26.md
+    - 2019 年 11 月: archive/2019-11-07.md
+    - 2019 年 10 月: archive/2019-10-01.md
+    - 2019 年 9 月: archive/2019-09-20.md
+  - 学割:
+    - 学割の使用: student/gakuwari.md
