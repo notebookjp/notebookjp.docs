@@ -16,8 +16,8 @@ theme:
   name: material
   language: ja
   palette:
-    primary: teal
-    accent: teal
+    primary: pink
+    accent: pink
   logo: assets/images/laptop-white-48dp.svg
   favicon: assets/images/logo.png
   features:
