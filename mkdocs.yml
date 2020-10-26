@@ -42,7 +42,7 @@ extra_css:
 
 # Page tree
 nav:
-  - 2020 年 9 月: index.md
+  - 2020 年 10 月: index.md
   - 過去のデータ:
     - 2020 年 9 月: archive/2020-09-11.md
     - 2020 年 8 月: archive/2020-08-07.md
