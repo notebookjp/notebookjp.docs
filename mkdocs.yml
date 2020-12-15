@@ -44,6 +44,8 @@ extra_css:
 nav:
   - 2020 年 10 月: index.md
   - 過去のデータ:
+    - 2020 年 11 月: archive/2020-11-13.md
+    - 2020 年 10 月: archive/2020-10-15.md
     - 2020 年 9 月: archive/2020-09-11.md
     - 2020 年 8 月: archive/2020-08-07.md
     - 2020 年 7 月: archive/2020-07-07.md
