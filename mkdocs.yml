@@ -42,7 +42,7 @@ extra_css:
 
 # Page tree
 nav:
-  - 2021 年 5 月: index.md
+  - 最新データ: index.md
   - 過去のデータ:
     - 2021 年 5 月: archive/2021-05-07.md
     - 2021 年 3 月: archive/2021-03-16.md
