@@ -21,8 +21,10 @@ theme:
   logo: assets/images/laptop-white-48dp.svg
   favicon: assets/images/logo.png
   features:
-    - instant
-    - tabs
+  - navigation.instant
+  - navigation.tabs
+  - navigation.indexes
+  - navigation.top
 plugins:
   - search:
       lang:
@@ -36,6 +38,8 @@ markdown_extensions:
   - admonition
   - toc:
       permalink: true
+      toc_depth: 2
+      slugify: !!python/name:pymdownx.slugs.uslugify
 extra_css:
   - "https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css"
   - notebookjp_styles.css
@@ -44,6 +48,7 @@ extra_css:
 nav:
   - 最新データ: index.md
   - 過去のデータ:
+    - 2022 年 1 月: archive/2022-01-22.md
     - 2021 年 11 月: archive/2021-11-17.md
     - 2021 年 9 月: archive/2021-09-05.md
     - 2021 年 6 月: archive/2021-06-16.md
