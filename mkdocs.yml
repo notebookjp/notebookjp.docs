@@ -48,6 +48,7 @@ extra_css:
 nav:
   - 最新データ: index.md
   - 過去のデータ:
+    - 2022 年 5 月: archive/2022-05-31.md
     - 2022 年 3 月: archive/2022-03-26.md
     - 2022 年 1 月: archive/2022-01-22.md
     - 2021 年 11 月: archive/2021-11-17.md
