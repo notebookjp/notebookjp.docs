@@ -1,6 +1,6 @@
 ### DELL での学割の使用
 
-DELL で PC を購入する場合、[デル 学割キャンペーンページ](https://www.dell.com/ja-jp/shop/student-discount-purchase-program/cp/student-discount-purchase-program) のフォームに申請すると、通常のクーポンにさらに +2% 割引が上乗せされたクーポンが発行される。
+DELL で PC を購入する場合、[デル 学割キャンペーンページ](https://www.dell.com/ja-jp/shop/student-discount-purchase-program/cp/student-discount-purchase-program) のフォームで申請するとクーポンが発行される。
 
 - 学割対象者
   - 小学校、中学校、高等学校、大学、専門学校の学生、またその学校に進学が決定した生徒
