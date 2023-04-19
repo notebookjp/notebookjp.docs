@@ -25,11 +25,10 @@ theme:
   - navigation.tabs
   - navigation.indexes
   - navigation.top
-plugins:
+  plugins:
   - search:
       lang:
-      - en
-      prebuild_index: true
+        - ja
 extra:
   social:
     - icon: fontawesome/brands/twitter
