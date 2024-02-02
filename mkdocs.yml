@@ -38,7 +38,9 @@ markdown_extensions:
   - toc:
       permalink: true
       toc_depth: 2
-      slugify: !!python/name:pymdownx.slugs.uslugify
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
 extra_css:
   - "https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css"
   - notebookjp_styles.css
