@@ -33,7 +33,7 @@
 
 ### 63,970 円 | [Inspiron 14](https://www.dell.com/ja-jp/shop/%E4%BB%8A%E9%80%B1%E3%81%AE%E3%81%8A%E8%B2%B7%E3%81%84%E5%BE%97/inspiron-14-%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/spd/inspiron-14-5440-laptop/sin5440340401monojp)
 
-| 項目 | 説明 |
+|  |  |
 | --- | --- |
 | 製品 | Inspiron 14 5440 |
 | OS | Windows 11 Home |
@@ -50,7 +50,7 @@
 
 ### 76,890 円 | [Lenovo IdeaPad Slim 3 Gen 8 - アークティックグレー](https://www.lenovo.com/jp/ja/p/laptops/ideapad/ideapad-slim-3-series/ideapad-slim-3-gen-8-(15-inch-amd)/82xm00fdjp)
 
-| 項目 | 説明 |
+|  |  |
 | --- | --- |
 | 製品 | Lenovo IdeaPad Slim 3 Gen 8 (15″ AMD) (82XM00FDJP) |
 | OS | Windows 11 Home |
@@ -64,7 +64,7 @@
 
 ### 78,127 円 | [Inspiron 14](https://www.dell.com/ja-jp/shop/dell%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/inspiron-14-%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/spd/inspiron-14-5440-laptop/sin5440201101monojp)
 
-| 項目 | 説明 |
+|  |  |
 | --- | --- |
 | 製品 | Inspiron 14 5440 |
 | OS | Windows 11 Home |
@@ -80,7 +80,7 @@
 
 ### 81,059 円 | [Inspiron 14](https://www.dell.com/ja-jp/shop/dell%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/inspiron-14-%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/spd/inspiron-14-5445-amd-laptop/sin5445301101monojp)
 
-| 項目 | 説明 |
+|  |  |
 | --- | --- |
 | 製品 | Inspiron 14 5445 |
 | OS | Windows 11 Home |
@@ -101,7 +101,7 @@
 
 ### 102,300 円 | [Victus by HP 15-fb1006AX](https://jp.ext.hp.com/campaign/personal/others/student_pc_collection/)
 
-| 項目 | 説明 |
+|  |  |
 | --- | --- |
 | 製品 | Victus by HP 15-fb1006AX |
 | OS | Windows 11 Home |
@@ -115,7 +115,7 @@
 
 ### 110,000 円 | [Lenovo LOQ 15IRX9 - ルナグレー](https://www.lenovo.com/jp/ja/p/laptops/loq-laptops/lenovo-loq-15irx9/83dv00knjp)
 
-| 項目 | 説明 |
+|  |  |
 | --- | --- |
 | 製品 | Lenovo LOQ Laptops (83DV00KNJP) |
 | OS | Windows 11 Home |
@@ -136,7 +136,7 @@
 
 ### 124,782 円 | [Dell G15](https://www.dell.com/ja-jp/shop/%E4%BB%8A%E9%80%B1%E3%81%AE%E3%81%8A%E8%B2%B7%E3%81%84%E5%BE%97/dell-g15-%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0-%E3%83%8E%E3%83%BC%E3%83%88pc/spd/g-series-15-5530-laptop/gn5530ptkdhsppsmnojp)
 
-| 項目 | 説明 |
+|  |  |
 | --- | --- |
 | 製品 | Dell G15 5530 |
 | OS | Windows 11 Home |
@@ -150,7 +150,7 @@
 
 ### 128,000 円 | [Victus by HP 16-s0011AX](https://jp.ext.hp.com/gaming/personal/victus_16_s/)
 
-| 項目 | 説明 |
+|  |  |
 | --- | --- |
 | 製品 | Victus by HP 16-s0011AX  |
 | OS | Windows 11 Home |
@@ -167,7 +167,7 @@
 
 ### 139,920 円 | [Lenovo LOQ 15IRX9 - ルナグレー](https://www.lenovo.com/jp/ja/p/laptops/loq-laptops/lenovo-loq-15irx9/83dv00kljp)
 
-| 項目 | 説明 |
+|  |  |
 | --- | --- |
 | 製品 | Lenovo LOQ Laptops (83DV00KLJP) |
 | OS | Windows 11 Home |
