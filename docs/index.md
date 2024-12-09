@@ -23,7 +23,7 @@
 	| [dGPU](https://e-words.jp/w/dGPU.html){:target="_blank"} | ディスクリート GPU / GPU メモリ |
 	| [メモリ](https://e-words.jp/w/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%A2%E3%83%AA.html){:target="_blank"} | メモリ容量 / メモリ規格と周波数 |
 	| ストレージ | ストレージの容量と [SSD](https://e-words.jp/w/SSD.html){:target="_blank"} の種類 |
-	| ディスプレイ | 画面サイズ / 解像度 / [リフレッシュレート](https://e-words.jp/w/%E5%9E%82%E7%9B%B4%E8%B5%B0%E6%9F%BB%E5%91%A8%E6%B3%A2%E6%95%B0.html){:target="_blank"}（記載なしは 60 Hz） |
+	| ディスプレイ | 画面サイズ / 解像度 / [リフレッシュレート](https://e-words.jp/w/%E3%83%AA%E3%83%95%E3%83%AC%E3%83%83%E3%82%B7%E3%83%A5%E3%83%AC%E3%83%BC%E3%83%88.html){:target="_blank"}（記載なしは 60 Hz） |
 	| 重さ | 重量（最小構成の重さなので、実際はこれより重い場合があります） |
 
 	- **iGPU:** CPU に内蔵されている安価で省電力の GPU で、日常的な作業や軽めのグラフィック処理が可能です。
